@@ -6,7 +6,8 @@ div {width: 700px;
 margin: auto; 
 font-family: "Helvetica Neue";
 background: white; 
-padding: 30px;}
+padding: 30px;
+  }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {font-size:22px;}
