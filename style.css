@@ -2,7 +2,8 @@
 body {background-color: #00b3e6";}
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-div {width: 700px; 
+div {
+width: 700px; 
 margin: auto; 
 font-family: "Helvetica Neue";
 background: white; 
